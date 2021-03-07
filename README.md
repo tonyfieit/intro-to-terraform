@@ -20,7 +20,7 @@ following parts of the series:
     * [modules](./modules): Examples of reusable Terraform modules, including a module that can deploy a web server 
       cluster on top of ASG with an ELB. 
     * [live](./live): Examples of how to deploy different live environments (i.e., staging, production) using the code 
-      from the `modules` folder. 
+      from the `modules` folder1. 
 1. [Terraform tips & tricks: loops, if-statements, and pitfalls](https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9)
     * [loops-with-count](./loops-with-count): Examples of how to use the `count` parameters to "loop" over resources.        
     * [loops-with-for-each](./loops-with-for-each): Examples of how to use `for_each` to "loop" over inline blocks.        
